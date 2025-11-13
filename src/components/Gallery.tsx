@@ -149,7 +149,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 
 const images: string[] = [
-  "https://ste.digital/demos/codepen/1.jpg",
+  "https://drive.google.com/uc?export=view&id=1ii3L3YfMe5N5RRn0WSL_5eRTyFuXkwAZ",
   "https://ste.digital/demos/codepen/2.jpg",
   "https://ste.digital/demos/codepen/3.jpg",
   "https://ste.digital/demos/codepen/4.jpg",
@@ -456,3 +456,4 @@ function ListView({ images, openAt }: { images: string[]; openAt: (idx: number) 
     </div>
   );
 }
+
